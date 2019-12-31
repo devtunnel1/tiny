@@ -1,10 +1,8 @@
 ## @devtunnel/tiny
 
-It's the tiniest!
+Removes all spaces from a string.
 
 [![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-blue)](https://github.com/@devtunnel/tiny)
-
-Removes all spaces from a string.
 
 ## Install
 ```
