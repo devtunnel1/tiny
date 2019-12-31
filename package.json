@@ -1,9 +1,9 @@
 {
-  "name": "@devtunnel1/tiny",
+  "name": "@devtunnel/tiny",
   "version": "2.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "devtunnel1/tiny",
+  "repository": "devtunnel/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
